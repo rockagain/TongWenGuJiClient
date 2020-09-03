@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/login1">
+        <file>images/logon1/bg.png</file>
+        <file>images/logon1/登陆.png</file>
+        <file>images/logon1/密码右.png</file>
+        <file>images/logon1/密码左.png</file>
+        <file>images/logon1/设置.png</file>
+        <file>images/logon1/头像.png</file>
+        <file>images/logon1/用户名右.png</file>
+        <file>images/logon1/用户名左.png</file>
+        <file>images/logon1/登陆（鼠标经过的）.png</file>
+    </qresource>
+    <qresource prefix="/login2">
+        <file>images/logon2/bg.png</file>
+        <file>images/logon2/参考.png</file>
+        <file>images/logon2/登录(鼠标经过).png</file>
+        <file>images/logon2/登录.png</file>
+        <file>images/logon2/密码框.png</file>
+        <file>images/logon2/设置.png</file>
+        <file>images/logon2/头像.png</file>
+        <file>images/logon2/用户名框.png</file>
+    </qresource>
+</RCC>
