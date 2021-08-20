@@ -1,2 +1,0 @@
-# TongWenGuJiClient
-very bad daima
